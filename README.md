@@ -1,4 +1,6 @@
-# Vue Template with Vuetify
+# TRA
+
+This app is based on the client template found at buildingblocs/vuetify-todo-app. Major thanks to ThePyProgrammer for setting the template up
 
 This template dictates an application powered based on public APIs (including GitHub's API). A demonstration of a sample Flask App to work with this App will also be added soon.
 
